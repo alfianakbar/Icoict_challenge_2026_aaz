@@ -3,6 +3,7 @@
 This repository contains the source code, experimental notebooks, figures, and supporting materials for the ICOICT 2026 TRAVLR Challenge paper:
 
 **Explainable Machine Learning for Travel Demand and Context-Aware Activity Recommendation Using Integrated Accommodation and Activity Data**
+**Alfian Akbar Gozali, Telkom University**
 
 ## Overview
 
